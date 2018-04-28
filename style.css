@@ -1,0 +1,204 @@
+body{
+	background-color: white;
+}
+
+div.cabecalhoTop {
+	background-color: #262626;
+	position: relative;
+	text-align: right;
+	z-index: 4;
+	margin-left: -8px;
+	margin-right: -8px;
+	margin-top: -8px;
+}
+
+div.cabecalhoBottom {
+	background: #1A1A1A;
+	position: relative;
+	margin-left: -8px;
+	margin-right: -8px;
+}
+
+div.cabecalhoBottom p {
+	color: #FFF;
+	font: 11px/65px 'Gotham HTF Bold';
+	font-weight: bold;
+	display: inline-block;
+	position: relative;
+	letter-spacing: 1px;
+    margin: 0 12px;
+    padding: 0 25px;
+    vertical-align: top;
+}
+
+img.logo {
+	position: relative;
+	margin-top: 3px;
+	margin-right: 6px;
+}
+
+img.sites {
+	position: relative;
+	margin-bottom: 5px;
+	margin-right: 105px;
+}
+
+img.logo1 {
+	position: relative;
+	margin-left: 165px;
+	margin-top: 15px;
+}
+
+img.bitcoin {
+	position: relative;
+	margin-left: -8px;
+	margin-right: -8px;
+}
+
+img.bitcoin2 {
+	position: absolute;
+	display: inline-block;
+	top: 210px;	
+	left: 733px;
+	z-index: 1;
+}
+
+img.blockchain {
+	position: absolute;
+	display: inline-block;
+	top: 290px;
+	left: 733px;
+	z-index: 1;
+}
+
+div.bitCoin p {
+	color: white;
+	border-left-color: #FFF;
+	display: inline-block;
+    font-family: 'Gotham HTF Bold';
+    font-size: 22px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    margin: 30px 0;
+    padding: 5px 0 5px 20px;
+    position: absolute;
+    text-align: left;
+    z-index: 1;
+    text-transform: uppercase;
+    vertical-align: baseline;
+    top: 365px;
+    left: 710px;
+}
+
+img.botao {
+	position: absolute;
+	display: inline-block;
+	top: 540px;
+	right: 442px;
+	z-index: 1;
+}
+
+div.programacao h2 {
+	font: 30px 'Gotham HTF Medium';
+	font-weight: bold;
+	position: relative;
+    letter-spacing: 3px;
+    margin-left: 4px;
+    margin-top: 80px;
+    text-transform: uppercase;
+}
+
+div.programacao {
+	position: relative;
+	margin-left: 140px;
+}
+
+div.empreendedorismo h2 {
+	font: 30px 'Gotham HTF Medium';
+	font-weight: bold;
+	position: relative;
+    letter-spacing: 3px;
+    margin-left: 4px;
+    margin-top: 80px;
+    text-transform: uppercase;
+}
+
+div.empreendedorismo {
+	position: relative;
+	margin-left: 140px;
+}
+
+div.tecnologia h2 {
+	font: 30px 'Gotham HTF Medium';
+	font-weight: bold;
+	position: relative;
+    letter-spacing: 3px;
+    margin-left: 4px;
+    margin-top: 80px;
+    text-transform: uppercase;
+}
+
+div.tecnologia {
+	position: relative;
+	margin-left: 140px;
+}
+
+div.admin h2 {
+	font: 30px 'Gotham HTF Medium';
+	font-weight: bold;
+	position: relative;
+    letter-spacing: 3px;
+    margin-left: 4px;
+    margin-top: 80px;
+    text-transform: uppercase;
+}
+
+div.admin {
+	position: relative;
+	margin-left: 140px;
+}
+
+div.cloud h2 {
+	font: 30px 'Gotham HTF Medium';
+	font-weight: bold;
+	position: relative;
+    letter-spacing: 3px;
+    margin-left: 4px;
+    margin-top: 80px;
+    text-transform: uppercase;
+}
+
+div.cloud {
+	position: relative;
+	margin-left: 140px;
+}
+
+div.gestao h2 {
+	font: 30px 'Gotham HTF Medium';
+	font-weight: bold;
+	position: relative;
+    letter-spacing: 3px;
+    margin-left: 4px;
+    margin-top: 80px;
+    text-transform: uppercase;
+}
+
+div.gestao {
+	position: relative;
+	margin-left: 140px;
+}
+
+div.mais h2 {
+	font: 30px 'Gotham HTF Medium';
+	font-weight: bold;
+	position: relative;
+    letter-spacing: 3px;
+    margin-left: 4px;
+    margin-top: 80px;
+    text-transform: uppercase;
+}
+
+div.mais {
+	position: relative;
+	margin-left: 140px;
+}
